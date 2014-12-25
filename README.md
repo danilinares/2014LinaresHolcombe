@@ -1,0 +1,1 @@
+Data and code to conduct the statistics and produce the figures of the manuscript **Differences in perceptual latency estimated from judgments of temporal order, simultaneity, and duration are inconsistent.** (2014). Linares, D., Holcombe, A. O. i-Perception, 5(6) 559–571.
